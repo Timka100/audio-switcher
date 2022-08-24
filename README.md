@@ -15,6 +15,7 @@
   - Gnome Shell 3.32
   - Gnome Shell 3.34
   - Gnome Shell 40
+  - Gnome Shell 42
 
 
 For Gnome Shell < 3.26, use version 1.0.
